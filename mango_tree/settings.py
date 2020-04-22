@@ -25,7 +25,9 @@ SECRET_KEY = 'ukhlxr&u1$lkg*hj0l5)pdw@q204)vdcg#%=12*0d6#g@hly&$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mangoblog.herokuapp.com']
+ALLOWED_HOSTS = []
+
+#'mangoblog.herokuapp.com'
 
 
 # Application definition
