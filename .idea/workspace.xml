@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25436058-3f2c-492d-8d9e-0db16d6c36e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/mango_tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mango_tree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mango_tree/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="125" column="21" lean-forward="true" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+            <state relative-caret-position="164">
+              <caret line="130" selection-start-line="130" selection-end-line="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -58,15 +66,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/templates/users/logout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -147,17 +146,18 @@
         <option value="$PROJECT_DIR$/users/templates/users/password_reset.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_done.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_confirm.html" />
-        <option value="$PROJECT_DIR$/mango_tree/settings.py" />
         <option value="$PROJECT_DIR$/mango_tree/urls.py" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" />
         <option value="$PROJECT_DIR$/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/mango_tree/settings.py" />
+        <option value="$PROJECT_DIR$/procfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="573" />
+    <option name="x" value="57" />
+    <option name="y" value="426" />
     <option name="width" value="1750" />
     <option name="height" value="610" />
   </component>
@@ -184,6 +184,11 @@
             <path>
               <item name="mango_tree" type="b2602c69:ProjectViewProjectNode" />
               <item name="mango_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango_tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mango_tree" type="b2602c69:ProjectViewProjectNode" />
@@ -261,10 +266,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="46" y="341" width="1400" height="488" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -575,8 +580,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mango_tree/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="125" column="21" lean-forward="true" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+        <state relative-caret-position="164">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
