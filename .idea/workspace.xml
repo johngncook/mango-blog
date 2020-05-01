@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mango_tree/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="342">
+              <caret line="33" lean-forward="true" selection-start-line="32" selection-end-line="33" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -173,8 +173,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="78" />
-    <option name="y" value="170" />
+    <option name="x" value="132" />
+    <option name="y" value="552" />
     <option name="width" value="1760" />
     <option name="height" value="299" />
   </component>
@@ -652,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mango_tree/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="342">
+          <caret line="33" lean-forward="true" selection-start-line="32" selection-end-line="33" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
           </folding>
