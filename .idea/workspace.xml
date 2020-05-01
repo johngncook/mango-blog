@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mango_tree/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="33" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+            <state relative-caret-position="138">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -173,10 +173,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="552" />
+    <option name="x" value="-43" />
+    <option name="y" value="362" />
     <option name="width" value="1760" />
-    <option name="height" value="299" />
+    <option name="height" value="298" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -323,7 +323,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
@@ -652,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mango_tree/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="33" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+        <state relative-caret-position="138">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
           </folding>
