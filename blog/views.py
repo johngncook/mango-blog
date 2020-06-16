@@ -19,9 +19,6 @@ class PostListView(ListView):
     paginate_by = 5
 
 
-
-
-
 class UserPostListView(ListView):
     model = Post
     template_name = 'blog/user_posts.html'#<app>/<model>_<viewtype>/html
@@ -71,9 +68,6 @@ class PostDeleteView(LoginRequiredMixin, UserPassesTestMixin,DeleteView):
             return True
         return False
 
+
 def about(request):
     return render(request, 'blog/about.html', {'title': 'About'})
-
-
-def meow(request):
-    return render(request, 'blog/test html.html', {'title': 'MAIL TIME'})
